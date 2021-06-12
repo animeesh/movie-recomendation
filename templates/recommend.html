@@ -1,0 +1,35 @@
+
+
+
+<!DOCTYPE html>
+<html>
+
+
+<body background="{{ url_for('static',filename='movie.jpg') }}">
+
+<h1  style="background-color:orange">Model of my Recommendion system </h1>
+
+<form action="{{url_for('predict')}}" method='POST' >
+  	<input type="text" name="movie_name" placeholder=" movie you liked"  align="middle" required="*" >
+  	<button  align="middle type="submit" classs="btn btn-primary btn-block btn-large">Recommend</button>
+
+</form> 
+<br>
+<br>
+<h3  style="background-color:orange">{{processed}}<h3>
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+<br>
+
+
+
+</body>
+</html>
