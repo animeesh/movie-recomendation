@@ -20,12 +20,12 @@ Any additional information goes here
   
 ## Authors
 
-- [@Animeeshn](https://www.github.com/animeshnayak)
+- [@Animeesh](https://www.github.com/animeshnayak)
 
   
 ## Screenshots
 
 ![App Screenshot]
-(https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+(https://github.com/animeesh/movie-recomendation/blob/main/static/Screenshot%20(65).png))
 
   
