@@ -10,7 +10,7 @@ feel free to explore it.
 
 Insert gif or link to demo
 this link can take you to my beaitiful app 
-https://moviesuggestion.herokuapp.com/predict
+https://moviesuggestion.herokuapp.com/
 
   
 ## Appendix
