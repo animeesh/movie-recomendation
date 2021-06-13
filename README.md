@@ -25,6 +25,8 @@ Any additional information goes here
   
 ## Screenshots
 
+![LOC Mascot](https://learncodeonline.in/mascot.png"LCO")
+
 ![App Screenshot]
 (https://github.com/animeesh/movie-recomendation/blob/main/static/Screenshot%20(65).png)
 
