@@ -26,6 +26,6 @@ Any additional information goes here
 ## Screenshots
 
 ![App Screenshot]
-(https://github.com/animeesh/movie-recomendation/blob/main/static/Screenshot%20(65).png))
+(https://github.com/animeesh/movie-recomendation/blob/main/static/Screenshot%20(65).png)
 
   
