@@ -20,7 +20,7 @@ Any additional information goes here
   
 ## Authors
 
-- [@Animeeshn](https://www.github.com/animeshnayak)
+- [@Animeesh](https://www.github.com/animeshnayak)
 
   
 ## Screenshots
